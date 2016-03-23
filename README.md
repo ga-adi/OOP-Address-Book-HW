@@ -1,11 +1,11 @@
 ---
-title: Inheritance and Abstraction HW
+title: OOP: Address Book Manager HW
 type: Homework
 duration: "1:00"
 creator: James Davis (NYC)
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Inheritance and Abstraction HW
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) OOP: Address Book Manager HW
 
 > ***Note:*** _This can be a pair programming activity or done independently._
 
